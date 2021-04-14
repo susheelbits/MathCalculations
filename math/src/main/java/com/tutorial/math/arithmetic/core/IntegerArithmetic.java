@@ -8,6 +8,9 @@ import com.tutorial.math.arithmetic.AbstractArithmetic;
  *
  * @since 1.0.0
  */
+/* 
+This is a singleton class for performing operations on Interger  
+*/
 public class IntegerArithmetic extends AbstractArithmetic<Integer> {
     // region singleton
 

@@ -42,7 +42,7 @@ class BigDecimalArithmeticTest {
 
     // endregion
 
-    // region absolute, negate and compare
+    // region absolute, negate and compare and add
 
     @Test
     void absoluteM1() {

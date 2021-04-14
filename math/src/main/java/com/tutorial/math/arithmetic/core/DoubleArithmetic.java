@@ -9,6 +9,7 @@ import com.tutorial.math.exception.NotSupportedException;
  *
  * @since 1.0.0
  */
+/* This is a singleton class for performing operations on double Variables */
 public class DoubleArithmetic extends AbstractArithmetic<Double> {
     // region singleton
 

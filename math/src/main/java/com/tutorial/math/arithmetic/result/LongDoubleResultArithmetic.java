@@ -6,6 +6,7 @@ import io.rala.math.arithmetic.core.LongArithmetic;
 
 /**
  * class which defines required arithmetic for calculations
+ *class which defines required arithmetic for calculations
  * which calculates {@link Long} to {@link Double}
  *
  * @since 1.0.0

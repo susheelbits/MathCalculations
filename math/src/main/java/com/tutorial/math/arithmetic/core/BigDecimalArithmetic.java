@@ -13,6 +13,8 @@ import java.util.Objects;
  *
  * @since 1.0.0
  */
+
+/* This is a singleton class for performing operations on big decimal variables */
 public class BigDecimalArithmetic extends AbstractArithmetic<BigDecimal> {
     // region singleton
 

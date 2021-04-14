@@ -9,6 +9,8 @@ import com.tutorial.math.exception.NotSupportedException;
  *
  * @since 1.0.0
  */
+
+/* This is a singleton class for performing operations on float Variables */
 public class FloatArithmetic extends AbstractArithmetic<Float> {
     // region singleton
 

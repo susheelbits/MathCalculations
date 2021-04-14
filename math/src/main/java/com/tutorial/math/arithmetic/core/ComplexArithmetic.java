@@ -33,7 +33,7 @@ public class ComplexArithmetic<T extends Number> extends AbstractArithmetic<Comp
         return arithmetic;
     }
 
-    // region fromInt, fromDouble and signum
+
 
     @Override
     public Complex<T> fromInt(int a) {

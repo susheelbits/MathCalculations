@@ -1,4 +1,4 @@
-package io.rala.math.testUtils;
+package com.tutorial.math.testUtils;
 
 import java.io.*;
 
@@ -6,7 +6,7 @@ import java.io.*;
  * serialization util methods collection
  *
  * @see Serializable
- * @see <a href="https://stackoverflow.com/a/3840817/2715720">https://stackoverflow.com/a/3840817/2715720</a>
+ * 
  */
 public class SerializableUtils {
     private SerializableUtils() {

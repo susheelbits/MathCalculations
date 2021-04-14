@@ -21,7 +21,7 @@ class BigIntegerArithmeticTest {
         assertEquals(arithmetic, BigIntegerArithmetic.getInstance());
     }
 
-    // region fromInt, fromDouble and signum
+    // region fromInt, fromDouble and signum make them available
 
     @Test
     void fromInt1() {

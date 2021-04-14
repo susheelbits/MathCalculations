@@ -8,7 +8,7 @@ import java.util.function.Function;
 
 /**
  * class which defines required arithmetic for calculations
- *
+ * class which defines required arithmetic for calculations
  * @param <T> number class of arithmetic input
  * @param <R> number class of arithmetic result
  * @since 1.0.0
